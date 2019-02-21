@@ -1,7 +1,7 @@
-# Titel Wie funktioniert POSTDIGITAL PUBLISHING 
+# Wie funktioniert POSTDIGITAL PUBLISHING 
 * Yuan Mei 
 
-#This is paragraph
+
 
 traditional publishing
 traditional workflows, production, form and business models
