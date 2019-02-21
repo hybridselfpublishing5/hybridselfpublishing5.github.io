@@ -1,5 +1,5 @@
 
-# Code machgt kreativ
+# Code macht kreativ
 *Annika Bertram*
 
 Leitfrage:
