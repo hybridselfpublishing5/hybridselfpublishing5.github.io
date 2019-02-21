@@ -20,3 +20,9 @@ Gegenpositionen
 - wenn man die Tools nicht beherrscht -> Hinderniss
 - wenn es einem wirklich nur um den Content geht und einem die Gestaltung egal ist -> Fachbücher/ Romane/ wissenschaftliche Paper also wenn man keine Gestalterischen Ansprüche hat?
 - 
+
+
+Macht es überhaupt Sinn mit Html zu publizieren?
+Warum?
+Ist es immer gut den Rahmen zu sprengen oder fesselt einen html auch an irgendwelche Bedingungen?
+ist die 
