@@ -1,4 +1,4 @@
 #Wie funktioniert postdigitale Literatur?
-* Yuan Mei *
+* Yuan Mei 
 
 Heutzutag 
