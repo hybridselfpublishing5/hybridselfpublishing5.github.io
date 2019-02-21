@@ -27,3 +27,4 @@ Welche Selfpublisher haben abgekupfert?
 *Selbstverlag (auch: Eigenverlag, Self-publishing) bezeichnet die Veröffentlichung eines reproduzierbaren Werkes durch einen Autor selbst, der damit zum Selbstverleger (auch: Self-publisher) wird.* (https://de.wikipedia.org/wiki/Selbstverlag)
 
 das Lexikon des gesamten Buchwesens Bd. 3 (Leipzig 1937, S. 271) worin es heißt „Im Selbstverlag erfolgt die Vervielfältigung und Verbreitung eines Werkes nicht durch einen Verlag, sondern durch den Autor persönlich.“
+
