@@ -1,5 +1,5 @@
 
 # Titel
-* Annika Bertram *
+*Annika Bertram*
 
 Das ist ein Text.
