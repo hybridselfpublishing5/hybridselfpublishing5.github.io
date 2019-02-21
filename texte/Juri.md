@@ -6,6 +6,7 @@ Fragestellungen
 Abkupfern, abschauen und abschreiebn ab wann ist es überhaupt gestohlen?
 Verleitet Selfpublishing zum stehelen?
 Was ist Fanfiction ?
+Fanfiction verbieten?
 wann wurde sie schon benutzt?
 ist das überhaupt schlimm?
 Kann man mit "klauen" reich werden?
