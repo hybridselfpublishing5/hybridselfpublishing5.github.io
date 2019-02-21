@@ -2,4 +2,13 @@
 # Titel
 *Annika Bertram*
 
-Das ist ein Text.
+Leitfrage:
+Inwieweit erweitert Code die Ausdrucksweisen von Kreativität (beim Self-Publishing)?
+
+One-Minute-Paper:
+Ich denke dass Code die Ausdrucksweise von Kreativität erweitert. Mit Code bewegt man sich ohne Einschränkungen, Vorgaben durch irgendwelche Programme.
+
+- Einschränkungen durch Programme und deren begrenzte Möglichkeiten/ Vorgaben
+- "rohe Dateien", nicht Voreingenommen, nicht in irgendeiner Schublade
+- Back to the roots/ Back to the basics ist immer eine gute Sache für Kreative
+- Beispiele
