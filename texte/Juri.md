@@ -3,13 +3,14 @@
 *Juri c. Bohr* 
 
 Fragestellungen
-Abkupfern, abschauen und abschreiebn ab wann ist es überhaupt gestohlen?
+Abkupfern, abschauen und abschreiebn ab wann ist es überhaupt gestohlen? --> Text von # Roland bart der Autor ist tot Es gibt keine Autoren manche Menschen Eindrücke stehlen von ihrer Umgebung. 
+
 Verleitet Selfpublishing zum stehlen?
 Was ist Fanfiction ?
 Fanfiction verbieten?
 wann wurde sie schon benutzt?
 ist das überhaupt schlimm?
-Kann man mit "klauen" reich werden?
+Kann man mit "klauen" reich werden?      !!!!!!!
 kann man überhaupt eine Eigene Idee haben.
 
 Nachschlagen!
@@ -28,3 +29,6 @@ Welche Selfpublisher haben abgekupfert?
 
 das Lexikon des gesamten Buchwesens Bd. 3 (Leipzig 1937, S. 271) worin es heißt „Im Selbstverlag erfolgt die Vervielfältigung und Verbreitung eines Werkes nicht durch einen Verlag, sondern durch den Autor persönlich.“
 
+überschrift
+Fanfiction alles nur geklaut. 
+ - Autorenschaft & Fanfiction
