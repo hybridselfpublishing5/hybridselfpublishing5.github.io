@@ -83,6 +83,6 @@ figcaption {
   margin: 1rem 0;
 }
 
-b{
+strong, b, .bold{
   font-weight: bold,
 }
