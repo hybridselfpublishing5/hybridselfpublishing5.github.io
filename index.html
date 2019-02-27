@@ -22,16 +22,16 @@
       },
       pageSetup: {
       size: { width: '148mm', height: '210mm' },
-      margin: { top: '36pt', inner: '78pt', outer: '36pt', bottom: '78pt' },
+      margin: { top: '36pt', inner: '36pt', outer: '36pt', bottom: '78pt' },
   },
       rules: [
-        Bindery.PageBreak({ selector: 'h1, h2, h3', position: 'before', continue: 'right' }),
+        Bindery.PageBreak({ selector: 'h1, h2', position: 'before', continue: 'right' }),
         Bindery.Footnote({ selector: 'p' }),
         Bindery.Footnote({
           selector: 'p > a',
           render: (elmt, number) => `<sup>${number}</sup> Link to <u>${elmt.getAttribute('href')}</u>`,
         }),
-        Bindery.FullBleedPage({ selector: '.med-figure' }),
+        Bindery.FullBleedPage({ selector: '.med-figure'}),
         Bindery.FullBleedSpread({ selector: '.big-figure' }),
         Bindery.RunningHeader({
           render: (page) => {
