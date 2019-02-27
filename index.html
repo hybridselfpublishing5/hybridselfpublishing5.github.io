@@ -21,12 +21,9 @@
         selector: ".content",
       },
       pageSetup: {
-    size: { width: '148mm', height: '210mm' },
-    margin: { top: '36pt', inner: '78pt', outer: '36pt', bottom: '36pt' },
+      size: { width: '148mm', height: '210mm' },
+      margin: { top: '10mm', inner: '20mm', outer: '15mm', bottom: '15mm' },
   },
-		
-
-		
       rules: [
         Bindery.PageBreak({ selector: 'h1, h2, h3', position: 'before', continue: 'right' }),
         Bindery.Footnote({ selector: 'p' }),
@@ -42,5 +39,18 @@
             else if (page.isRight) return `${page.heading.h2 || ''} · ${page.number}`;
           },
         }),
-		  
-		  
+        Bindery.PageReference({
+          selector: ".toc a",
+          replace: (element, number) => {
+            let row = document.createElement('div');
+            row.innerHTML = `${element.textContent}`;
+            row.innerHTML += `<span style='float: right;'>${number}</span>`;
+            return row;
+          }
+        }),
+      ],
+    });
+  </script>
+
+</body>
+</html>
