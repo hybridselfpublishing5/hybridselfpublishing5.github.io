@@ -26,6 +26,10 @@ font-family: 'ebgaramondregular', Baskerville, "Palatino Linotype", Palatino, "C
 	 
 }
 
+#poem { font-family:'ebgaramondregular', Baskerville, "Plation Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+
+}
+
 #titela{ font-size: 6rem;
 	text-transform: uppercase;
 	font-align: center;
