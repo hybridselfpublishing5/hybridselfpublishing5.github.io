@@ -39,7 +39,7 @@
         Bindery.FullBleedSpread({ selector: '.big-figure' }),
         Bindery.RunningHeader({
           render: (page) => {
-            // if (page.isLeft) return `${page.number} · ${page.heading.h1|| ''} `;
+            if (page.isLeft) return `${page.number} · ${page.heading.h1|| ''} `;
             // else if (page.isRight) return `${page.heading.h1 || ''} · ${page.number}`;
 		if (page.isRight) return `${page.number} · ${page.heading.h1|| ''} `;
           },
