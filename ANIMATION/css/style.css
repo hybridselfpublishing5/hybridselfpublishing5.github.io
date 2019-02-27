@@ -18,9 +18,8 @@ hybridselfpublishing5.github.io/animation/neuecode/css/style.css
 154 lines (141 sloc)  3.54 KB
     
 @font-face { font-family: 'meine-schrift';
-             src: url('../../EBGaramond12-Regular.woff') format('truetype'); }@font-face { font-family: 'meine-schrift';
-             src: url('../../EBGaramond12-Regular.woff') format('truetype'); }
-
+             src: url('Fonts/EBGaramond12-Regular.woff') format('truetype'); }@font-face { font-family: 'meine-schrift';
+             src: url('Fonts/EBGaramond12-Regular.woff') format('truetype'); }
 body{
     font-family: 'meine-schrift', Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
         text-align: justify;
