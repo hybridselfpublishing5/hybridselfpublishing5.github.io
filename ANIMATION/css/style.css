@@ -82,7 +82,7 @@ body{
 .slider-buttons:hover { cursor:pointer; }
 
 #main-slider-next {
-    left:47%;
+    left:500px;
     top:80%;
 }
 
