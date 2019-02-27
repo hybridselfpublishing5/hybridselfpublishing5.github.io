@@ -1,4 +1,3 @@
-
 @font-face { font-family: 'meine-schrift';
              src: url('Fonts/EBGaramond12-Regular.woff') format('truetype'); }@font-face { font-family: 'meine-schrift';
              src: url('Fonts/EBGaramond12-Regular.woff') format('truetype'); }
@@ -38,7 +37,7 @@ body{
 }
 #main-slider-space {
 	overflow:hidden;
-	width:700px;
+	width:1000px;
 	height:600px;
 	background-color:#fff;
 }
@@ -131,7 +130,7 @@ a{
   top: 0; right: 0; bottom: 0; left: 0;
   padding: 2em;
   z-index: 2;
-  -webkit-perspective: 150px;
+  -webkit-perspective: 200px;
   -webkit-transition: opacity .25s .25s linear;
 }
 
@@ -142,7 +141,7 @@ a{
   opacity: 0;
 }
 .s1flip-box.s1flipped, .s2flip-box.s2flipped, .s3flip-box.s3flipped, .s4flip-box.s4flipped, .s5flip-box.s5flipped, .s6flip-box.s6flipped {
-  -webkit-transform: rotateX(180deg) translateY(15em) translateZ(40px);
+  -webkit-transform: rotateX(180deg) translateY(400px) translateZ(40px);
 }
 .s1flipped .s1flip-box-front, .s2flipped .s2flip-box-front, .s3flipped .s3flip-box-front, .s4flipped .s4flip-box-front, .s5flipped .s5flip-box-front, .s6flipped .s6flip-box-front  {
    opacity: 0;
