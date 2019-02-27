@@ -15,29 +15,8 @@
 
 
   <script>
-        const {
-        makeBook,
-        createRule,
-        PageBreak,
-        FullBleedPage,
-        FullBleedSpread,
-        PageReference,
-        RunningHeader,
-        Footnote,
-        Paper,
-        Layout,
-        Marks,
-      } = Bindery;
+        
 
-      const cleanedURL = (url) => {
-        let clean = url;
-        if (url[url.length - 1] === '/') {
-          clean = url.substr(0, url.length - 1);
-        }
-        clean = clean.replace('http://', '').replace('https://', '')
-        return clean;
-      }
-    
     Bindery.makeBook({
       content: {
         url: 'shared/content.html',
@@ -47,15 +26,7 @@
       size: { width: '148mm', height: '210mm' },
       margin: { top: '85pt', inner: '70pt', outer: '70pt', bottom: '85pt' },
   },
-       pageNumberOffset: -6,
-        rules: [
-          createRule({
-            selector: '.colophon-wrap',
-            beforeAdd: (element) => {
-              updateColophon(element, { version: Bindery.version });
-              return element;
-            }
-          }),
+       Binery.pageNumberOffset: ({-6}),
         
       
       rules: [
