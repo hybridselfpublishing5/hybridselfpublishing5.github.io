@@ -1,3 +1,7 @@
+@font-face { font-family: 'meine-schrift';
+             src: url('Fonts/EBGaramond12-Regular.woff') format('truetype');
+}
+
 * {
   margin: 0;
   padding: 0;
