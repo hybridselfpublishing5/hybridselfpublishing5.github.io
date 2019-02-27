@@ -1,7 +1,6 @@
 @font-face { font-family: 'meine-schrift';
-             src: url('Fonts/EBGaramond12-Regular.woff') format('truetype');
-			 font-family: '95';
-			 src: url(Fonts/EBGaramond-Initials.woff) format ('truetype');
+             src: url('hybridselfpublishing5.github.io/EBGaramond12-Regular.woff') format('truetype');
+			
 }
 
 
@@ -14,9 +13,7 @@ i{font-style: italic}
 
 strong{font-weight: bolder}
 
-b {font-weight: bold; 
-
-}
+b {font-weight: bold; }
 
 :root {
   font: 12px/1.5 serif;
@@ -28,21 +25,11 @@ font-family: 'meine-schrift', Baskerville, "Palatino Linotype", Palatino, "Centu
 	text-align: justify;
 	 
 }
-#95 {
-	
-	text-align: center;
-	font-size: 1rem;
-	font-style: bold; 
-}
-	
-}
 
-#titel{	
-	font-size: 6rem;
-	text-align: center;
-	text-transform: uppercase;
-	}
+#titela{ font-size: 6rem;
+	 
 
+}
 
 #frontsubtitel{
 	font-size: 1.2rem;
