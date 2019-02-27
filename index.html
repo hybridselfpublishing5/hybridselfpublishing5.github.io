@@ -24,7 +24,15 @@
       size: { width: '148mm', height: '210mm' },
       margin: { top: '85pt', inner: '70pt', outer: '70pt', bottom: '85pt' },
   },
-       
+         pageNumberOffset: -6,
+        rules: [
+          createRule({
+            selector: '.colophon-wrap',
+            beforeAdd: (el) => {
+              updateColophon(el, { version: Bindery.version });
+              return el;
+            }
+          }),
       
       
      
