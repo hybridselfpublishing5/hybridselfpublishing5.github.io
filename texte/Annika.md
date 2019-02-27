@@ -60,3 +60,6 @@ IneinemanderenZusammenhangstehtInformatikmitKunstdort,wosichKünstleralsInformat
 Der kreative Entrepreneur: EIne empirische Multimethoden-Studie von Christian Homeber
 https://books.google.de/books?hl=de&lr=&id=bzm-cUZPHbQC&oi=fnd&pg=PR5&dq=coding+kreativit%C3%A4t&ots=MZvBbjT4PT&sig=4uIKIHGUFyQIeHxurZsguNKYubs#v=onepage&q=coding%20kreativit%C3%A4t&f=false
 "Kennzeichen kreativer Ideen sind u.a. die Neuartigkeit und Zweckmäßigkeit der Konzepte."
+
+The Maker Movement Manifesto von Mark Hatch
+https://www.boerneneshovedstad.dk/media/1332/maker-movement-manifesto-sample-chapter.pdf
