@@ -34,15 +34,16 @@ font-family: 'meine-schrift', Baskerville, "Palatino Linotype", Palatino, "Centu
 }
 
 #frontsubtitel{
-	font-size: 2rem;
+	font-size: 1.6rem;
 	font-style: normal;
-	font-weight: 100;
+	font-weight: lighter;
 	text-align: center;
 				
 
 }
 #autor{text-align: center;
-		font-size: 1rem;
+	align-self: bottom;
+	font-size: 1rem;
 }
 
 h1 {
