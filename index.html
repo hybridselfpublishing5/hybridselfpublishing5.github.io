@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Using Configuration</title>
+  <title>Publishit</title>
   <link rel="stylesheet" type="text/css" href="shared/style.css" />
 </head>
 
@@ -32,7 +32,7 @@
       rules: [
         Bindery.PageBreak({ selector: 'h1, h2', position: 'before', continue: 'right' }),
         Bindery.PageBreak({ selector: 'h4', position: 'before', continue: 'next' }),
-        Bindery.Footnote({ selector: 'p' }),
+        Bindery.Footnote({ selector: 'a' }),
         Bindery.Footnote({
           selector: 'p > a',
           render: (elmt, number) => `<sup>${number}</sup> Link to <u>${elmt.getAttribute('href')}</u>`,
