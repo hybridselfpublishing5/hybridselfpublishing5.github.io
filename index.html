@@ -25,13 +25,15 @@
       margin: { top: '85pt', inner: '70pt', outer: '70pt', bottom: '85pt' },
   },
        
-
-       pageNumberOffset: -4,
-     
+      pageNumberOffset: -4,
+        rules: [
+          createRule({selector: '.colophon-wrap', beforeAdd: (el) => {
+              updateColophon(el, { version: Bindery.version });
+              return el}
+                     }),
      
       
       rules: [
-        pageNumberOffset:({ -4}),
         Bindery.PageBreak({ selector: 'h1, h2', position: 'before', continue: 'right' }),
         Bindery.PageBreak({ selector: 'h4', position: 'before', continue: 'next' }),
         Bindery.Footnote({ selector: 'p' }),
