@@ -30,7 +30,7 @@
       rules: [
         Bindery.PageBreak({ selector: 'h1, h2', position: 'before', continue: 'right' }),
         Bindery.PageBreak({ selector: 'h4', position: 'before', continue: 'next' }),
-        Bindery.Footnote({ selector: 'a' }),
+        Bindery.Footnote({ selector: 'p' }),
         Bindery.Footnote({
           selector: 'p > a',
           render: (elmt, number) => `<sup>${number}</sup> Link to <u>${elmt.getAttribute('href')}</u>`,
