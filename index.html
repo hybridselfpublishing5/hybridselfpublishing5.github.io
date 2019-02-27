@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Publishit</title>
+  <title>Using Configuration</title>
   <link rel="stylesheet" type="text/css" href="shared/style.css" />
 </head>
 
@@ -15,20 +15,18 @@
 
 
   <script>
-        
-
     Bindery.makeBook({
       content: {
         url: 'shared/content.html',
         selector: ".content",
       },
       pageSetup: {
-      size: { width: '148mm', height: '210mm' },
-      margin: { top: '85pt', inner: '70pt', outer: '70pt', bottom: '85pt' },
+    size: { width: '148mm', height: '210mm' },
+    margin: { top: '36pt', inner: '78pt', outer: '36pt', bottom: '36pt' },
   },
-       Binery.pageNumberOffset: ({-6}),
-        
-      
+		
+
+		
       rules: [
         Bindery.PageBreak({ selector: 'h1, h2', position: 'before', continue: 'right' }),
         Bindery.PageBreak({ selector: 'h4', position: 'before', continue: 'next' }),
@@ -37,7 +35,7 @@
           selector: 'p > a',
           render: (elmt, number) => `<sup>${number}</sup> Link to <u>${elmt.getAttribute('href')}</u>`,
         }),
-        Bindery.FullBleedPage({ selector: '.med-figure'}),
+        Bindery.FullBleedPage({ selector: '.med-figure' }),
         Bindery.FullBleedSpread({ selector: '.big-figure' }),
         Bindery.RunningHeader({
           render: (page) => {
@@ -45,8 +43,8 @@
             else if (page.isRight) return `${page.heading.h2 || ''} · ${page.number}`;
           },
         }),
-
-
+	  
+		  
         Bindery.PageReference({
           selector: ".toc a",
           replace: (element, number) => {
