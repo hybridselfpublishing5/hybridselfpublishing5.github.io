@@ -1,4 +1,4 @@
-@font-face { font-family: 'meine-schrift';
+@font-face { font-family: 'ebgaramondregular';
              src: url('hybridselfpublishing5.github.io/EBGaramond12-Regular.woff') format('truetype');
 			
 }
@@ -16,12 +16,12 @@ strong{font-weight: bolder}
 b {font-weight: bold; }
 
 :root {
-  font: 12px/1.5 serif;
+  font: 10px/0.5 serif;
 }
 
 body {
   margin: 0;
-font-family: 'meine-schrift', Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+font-family: 'ebgaramondregular', Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	text-align: left;
 	 
 }
