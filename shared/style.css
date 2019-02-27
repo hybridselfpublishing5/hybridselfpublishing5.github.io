@@ -27,12 +27,14 @@ font-family: 'meine-schrift', Baskerville, "Palatino Linotype", Palatino, "Centu
 }
 
 #titela{ font-size: 6rem;
+	text-transform: uppercase;
+	font-align: center;
 	 
 
 }
 
 #frontsubtitel{
-	font-size: 1.2rem;
+	font-size: 2rem;
 	font-style: normal;
 	font-weight: 100;
 	text-align: center;
