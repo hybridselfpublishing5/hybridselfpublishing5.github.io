@@ -40,7 +40,7 @@ body{
   border: none;
   color: #000;
   position: absolute;
-  left:85%;
+  left:90%;
   top: 10px;
   text-align: center;
   text-decoration: none;
@@ -85,7 +85,7 @@ body{
 .slider-buttons:hover { cursor:pointer; }
 
 #main-slider-next {
-font-size:22px;
+font-size:26px;
     left:47%;
     top:80%;
 }
