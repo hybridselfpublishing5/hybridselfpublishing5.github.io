@@ -39,6 +39,7 @@
         Bindery.FullBleedSpread({ selector: '.big-figure' }),
         Bindery.RunningHeader({
           render: (page) => {
+	    if ( page.number < 1) return '';
             if (page.isLeft) return `${page.number} · ${page.heading.h1|| ''} `;
             else if (page.isRight) return `${page.heading.h1 || ''} · ${page.number}`;
           },
