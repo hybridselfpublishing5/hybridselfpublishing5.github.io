@@ -15,7 +15,7 @@
     <!-- Book Content -->
 
 	  <div id="titela">Publis<strong>hit</strong></div><br></br>
-	  <article id="frontsubtitel"> Ein Sammelband der Erfolge aus der <br>Geschichte der Selbstpublikationen </br>
+	  <article id="frontsubtitel"> Ein Sammelband der Misserfolge aus der <br>Geschichte der Selbstpublikationen </br>
 	  </article>
 	<br></br>
 	<br></br>
@@ -28,7 +28,7 @@
 <br></br>
 <br></br>
 
-	<article id="autor"> Herausgegeben von <b>Maria van Búk</b> </br>
+	<article id="autor"> Herausgegeben von <b>Markus Buuk</b> </br>
 	  </article>
 
 <h1></h1>
@@ -43,14 +43,14 @@
     <ul class="toc">
 	<li><a href="#section1">Vorwort</a></li>
 <br>  </br>
-      <li><a href="#section2">Martin Luther</a></li>
-      <li><a href="#section3">95 Thesen</a></li>
+      <li><a href="#section2">Walt Whitman</a></li>
+      <li><a href="#section3">Leaves of Grass</a></li>
 <br>  </br>
       <li><a href="#section4">Friedrich Schiller</a></li>
       <li><a href="#section5">Die Räuber</a></li>
 <br>  </br>
-      <li><a href="#section6">Walt Whitman</a></li>
-      <li><a href="#section7">Leaves of Grass</a></li>
+      <li><a href="#section6">Martin Luther</a></li>
+      <li><a href="#section7">95 Thesen</a></li>
     </ul>
 
 <h1 id="section1"> Vorwort </h1>
@@ -64,211 +64,7 @@ Erfolg ist schwierig zu messen. Ein Autor, der im Leben fünf Bücher verkauft h
 
 <br> </br>
 
-<h1 id="section2"> Martin Luther </h1>
-<br> </br>
-	
-	
-Hallo, mein Name ist Martin Luther!<br>
-Ich habe am 31. Oktober meine Selbstpublikation in der Form einer Gebiete Spezifischen Installation zur schau gestellt. Es ging mir dabei weniger um Profit sondern um einen Aufruf 
-um das Bestehende System zu kritisieren. Dies gelang mir auch insofern als das ich noch heute für diese Installation bekannt bin und sie auch unter großen Druck nicht zurücknahm.
-Meine Publikation fand bei meinen Zeitgenossen großen Anklang doch war die Meinung darüber doch sehr gespalten. Manche behaupten sogar, dass sie der Auslöser eines Krieges seien.
-<br></br>
-	
-	  <h1 id="section3"> 95 Thesen</h1>
-	<br> </br>
 
-<strong>1. </strong>Aus Liebe zur Wahrheit und in dem Bestreben, diese zu ergründen, soll in Wittenberg unter dem Vorsitz des ehrwürdigen Vaters Martin Luther, Magisters der freien Künste und der heiligen Theologie sowie deren ordentlicher Professor daselbst, über die folgenden Sätze disputiert werden. Deshalb bittet er die, die nicht anwesend sein und mündlich mit uns debattieren können, dieses in Abwesenheit schriftlich zu tun. Im Namen unseres Herrn Jesu Christi, Amen.
-	
-	<br></br>
- <strong>2. </strong> Da unser Herr und Meister Jesus Christus spricht: "Tut Buße" usw. (Matth. 4,17), hat er gewollt, dass das ganze Leben der Gläubigen Buße sein soll.
-	  <br></br>
- <strong>3.</strong> Dieses Wort kann nicht von der Buße als Sakrament - d. h. von der Beichte und Genugtuung -, die durch das priesterliche Amt verwaltet wird, verstanden werden.
-	  <br></br>
- <strong>4. </strong>Es bezieht sich nicht nur auf eine innere Buße, ja eine solche wäre gar keine, wenn sie nicht nach außen mancherlei Werke zur Abtötung des Fleisches bewirkte.
-	  <br></br>
-<strong>5. </strong>  Daher bleibt die Strafe, solange der Hass gegen sich selbst - das ist die wahre Herzensbuße - bestehen bleibt, also bis zum Eingang ins Himmelreich.
-	  <br></br>
-<strong>6. </strong>  Der Papst will und kann keine Strafen erlassen, außer solchen, die er auf Grund seiner eigenen Entscheidung oder der der kirchlichen Satzungen auferlegt hat.
-	  <br></br>
-<strong>7. </strong>   Der Papst kann eine Schuld nur dadurch erlassen, dass er sie als von Gott erlassen erklärt und bezeugt, natürlich kann er sie in den ihm vorbehaltenen Fällen erlassen; wollte man das gering achten, bliebe die Schuld ganz und gar bestehen.
-	  <br></br>
-<strong>8. </strong>  Gott erlässt überhaupt keinem die Schuld, ohne ihn zugleich demütig in allem dem Priester, seinem Stellvertreter, zu unterwerfen.
-	  <br></br>
-<strong>9. </strong>  Die kirchlichen Bestimmungen über die Buße sind nur für die Lebenden verbindlich, den Sterbenden darf demgemäß nichts auferlegt werden.
-	  <br></br>
-<strong>10. </strong>  Daher handelt der Heilige Geist, der durch den Papst wirkt, uns gegenüber gut, wenn er in seinen Erlassen immer den Fall des Todes und der höchsten Not ausnimmt.
-	  <br></br>
-<strong>11. </strong>  Unwissend und schlecht handeln diejenigen Priester, die den Sterbenden kirchliche Bußen für das Fegefeuer aufsparen.
-	  <br></br>
-<strong>12. </strong>  Die Meinung, dass eine kirchliche Bußstrafe in eine Fegefeuerstrafe umgewandelt werden könne, ist ein Unkraut, das offenbar gesät worden ist, während die Bischöfe schliefen.
-	  <br></br>
-<strong>13. </strong>  Früher wurden die kirchlichen Bußstrafen nicht nach, sondern vor der Absolution auferlegt, gleichsam als Prüfstein für die Aufrichtigkeit der Reue.
-	  <br></br>
-<strong>14. </strong>  Die Sterbenden werden durch den Tod von allem gelöst, und für die kirchlichen Satzungen sind sie schon tot, weil sie von Rechts wegen davon befreit sind.
-	  <br></br>
-<strong>15. </strong> Ist die Haltung eines Sterbenden und die Liebe (Gott gegenüber) unvollkommen, so bringt ihm das notwendig große Furcht, und diese ist um so größer, je geringer jene ist.
-	  <br></br>
-<strong>16. </strong> Diese Furcht und dieser Schrecken genügen für sich allein - um von anderem zu schweigen -, die Pein des Fegefeuers auszumachen; denn sie kommen dem Grauen der Verzweiflung ganz nahe.
-	  <br></br>
-<strong>17. </strong>  Es scheinen sich demnach Hölle, Fegefeuer und Himmel in der gleichen Weise zu unterscheiden wie Verzweiflung, annähernde Verzweiflung und Sicherheit.
-	  <br></br>
-<strong>18. </strong>  Offenbar haben die Seelen im Fegefeuer die Mehrung der Liebe genauso nötig wie eine Minderung des Grauens.
-	  <br></br>
-<strong>19. </strong>  Offenbar ist es auch weder durch Vernunft- noch Schriftgründe erwiesen, daß sie sich außerhalb des Zustandes befinden, in dem sie Verdienste erwerben können oder in dem die Liebe zunehmen kann.
-	  <br></br>
-<strong>20. </strong>  Offenbar ist auch dieses nicht erwiesen, dass sie - wenigstens nicht alle - ihrer Seligkeit sicher und gewiß sind, wenngleich wir ihrer völlig sicher sind.
-	  <br></br>
-<strong>21. </strong>  Daher meint der Papst mit dem vollkommenen Erlass aller Strafen nicht einfach den Erlass sämtlicher Strafen, sondern nur derjenigen, die er selbst auferlegt hat.
-	  <br></br>
-<strong>22. </strong>  Deshalb irren jene Ablassprediger, die sagen, dass durch die Ablässe des Papstes der Mensch von jeder Strafe frei und los werde.
-	  <br></br>
-<strong>23. </strong>  Vielmehr erlässt er den Seelen im Fegefeuer keine einzige Strafe, die sie nach den kirchlichen Satzungen in diesem Leben hätten abbüßen müssen.
-	  <br></br>
-<strong>24. </strong> Wenn überhaupt irgendwem irgendein Erlass aller Strafen gewährt werden kann, dann gewiß allein den Vollkommensten, das heißt aber, ganz wenigen.
-	  <br></br>
-<strong>25. </strong>  Deswegen wird zwangsläufig ein Großteil des Volkes durch jenes in Bausch und Bogen und großsprecherisch gegebene Versprechen des Straferlasses getäuscht.
-	  <br></br>
-<strong>26. </strong>  Die gleiche Macht, die der Papst bezüglich des Fegefeuers im allgemeinen hat, besitzt jeder Bischof und jeder Seelsorger in seinem Bistum bzw. seinem Pfarrbezirk im besonderen.
-	  <br></br>
-<strong>27. </strong> Der Papst handelt sehr richtig, den Seelen (im Fegefeuer) die Vergebung nicht auf Grund seiner - ihm dafür nicht zur Verfügung stehenden - Schlüsselgewalt, sondern auf dem Wege der Fürbitte zuzuwenden.
-	  <br></br>
-<strong>28. </strong>  Menschenlehre verkündigen die, die sagen, daß die Seele (aus dem Fegefeuer) emporfliege, sobald das Geld im Kasten klingt.
-	  <br></br>
-<strong>29. </strong>  Gewiss, sobald das Geld im Kasten klingt, können Gewinn und Habgier wachsen, aber die Fürbitte der Kirche steht allein auf dem Willen Gottes.
-	  <br></br>
-<strong>30. </strong>  Wer weiß denn, ob alle Seelen im Fegefeuer losgekauft werden wollen, wie es beispielsweise beim heiligen Severin und Paschalis nicht der Fall gewesen sein soll.
-	  <br></br>
-<strong>31. </strong>  Keiner ist der Echtheit seiner Reue gewiss, viel weniger, ob er völligen Erlass (der Sündenstrafe) erlangt hat.
-	<br></br>  
-<strong>32. </strong>  So selten einer in rechter Weise Buße tut, so selten kauft einer in der rechten Weise Ablass, nämlich außerordentlich selten.
-	  <br></br>
-<strong>33.</strong>  Wer glaubt, durch einen Ablassbrief seines Heils gewiss sein zu können, wird auf ewig mit seinen Lehrmeistern verdammt werden.
-	  <br></br>
-<strong>34. </strong>  Nicht genug kann man sich vor denen hüten, die den Ablass des Papstes jene unschätzbare Gabe Gottes nennen, durch die der Mensch mit Gott versöhnt werde.
-	  <br></br>
-<strong>35. </strong>  Jene Ablassgnaden beziehen sich nämlich nur auf die von Menschen festgesetzten Strafen der sakramentalen Genugtuung.
-	  <br></br>
-<strong>36. </strong>  Nicht christlich predigen die, die lehren, dass für die, die Seelen (aus dem Fegefeuer) loskaufen oder Beichtbriefe erwerben, Reue nicht nötig sei.
-	  <br></br>
-<strong>37. </strong>  Jeder Christ, der wirklich bereut, hat Anspruch auf völligen Erlass von Strafe und Schuld, auch ohne Ablassbrief.
-	  <br></br>
-<strong>38. </strong>  Jeder wahre Christ, sei er lebendig oder tot, hat Anteil an allen Gütern Christi und der Kirche, von Gott ihm auch ohne Ablassbrief gegeben.
-	  <br></br>
-<strong>39. </strong>  Doch dürfen der Erlass und der Anteil (an den genannten Gütern), die der Papst vermittelt, keineswegs gering geachtet werden, weil sie - wie ich schon sagte - die Erklärung der göttlichen Vergebung darstellen.
-	  <br></br>
-<strong>40. </strong>  Auch den gelehrtesten Theologen dürfte es sehr schwerfallen, vor dem Volk zugleich die Fülle der Ablässe und die Aufrichtigkeit der Reue zu rühmen.
-	  <br></br>
-<strong>41. </strong>  Aufrichtige Reue begehrt und liebt die Strafe. Die Fülle der Ablässe aber macht gleichgültig und lehrt sie hassen, wenigstens legt sie das nahe.
-	  <br></br>
-<strong>42. </strong>  Nur mit Vorsicht darf der apostolische Ablass gepredigt werden, damit das Volk nicht fälschlicherweise meint, er sei anderen guten Werken der Liebe vorzuziehen.
-	  <br></br>
-<strong>43. </strong>  Man soll die Christen lehren: Die Meinung des Papstes ist es nicht, dass der Erwerb von Ablass in irgendeiner Weise mit Werken der Barmherzigkeit zu vergleichen sei.
-	  <br></br>
-<strong>44. </strong>  Man soll den Christen lehren: Dem Armen zu geben oder dem Bedürftigen zu leihen ist besser, als Ablass zu kaufen.
-<br></br>
-<strong>45. </strong> Denn durch ein Werk der Liebe wächst die Liebe und wird der Mensch besser, aber durch Ablass wird er nicht besser, sondern nur teilweise von der Strafe befreit.
-	  <br></br>
-<strong>46. </strong> Man soll die Christen lehren: Wer einen Bedürftigen sieht, ihn übergeht und statt dessen für den Ablass gibt, kauft nicht den Ablass des Papstes, sondern handelt sich den Zorn Gottes ein.
-	  <br></br>
-<strong>47. </strong> Man soll die Christen lehren: Die, die nicht im Überfluss leben, sollen das Lebensnotwendige für ihr Hauswesen behalten und keinesfalls für den Ablass verschwenden.
-<br></br>
-<strong>48. </strong> Man soll die Christen lehren: Der Kauf von Ablass ist eine freiwillige Angelegenheit, nicht geboten.
-<br></br>
-<strong>49. </strong> Man soll die Christen lehren: Der Papst hat bei der Erteilung von Ablass ein für ihn dargebrachtes Gebet nötiger und wünscht es deshalb auch mehr als zur Verfügung gestelltes Geld.
-<br></br>
-<strong>50. </strong> Man soll die Christen lehren: Der Ablass des Papstes ist nützlich, wenn man nicht sein Vertrauen darauf setzt, aber sehr schädlich, falls man darüber die Furcht Gottes fahren lässt.
-<br></br>
-<strong>51. </strong> Man soll die Christen lehren: Wenn der Papst die Erpressungsmethoden der Ablassprediger wüsste, sähe er lieber die Peterskirche in Asche sinken, als daß sie mit Haut, Fleisch und Knochen seiner Schafe erbaut würde.
-<br></br>
-<strong>52. </strong> Man soll die Christen lehren: Der Papst wäre, wie es seine Pflicht ist, bereit - wenn nötig -, die Peterskirche zu verkaufen, um von seinem Gelde einem großen Teil jener zu geben, denen gewisse Ablassprediger das Geld aus der Tasche holen.
-<br></br>
-<strong>53. </strong>Auf Grund eines Ablassbriefes das Heil zu erwarten ist eitel, auch wenn der (Ablass-)Kommissar, ja der Papst selbst ihre Seelen dafür verpfändeten.
-<br></br>
-<strong>54. </strong> Die anordnen, dass um der Ablasspredigt willen das Wort Gottes in den umliegenden Kirchen völlig zum Schweigen komme, sind Feinde Christi und des Papstes.
-<br></br>
-<strong>55. </strong> Dem Wort Gottes geschieht Unrecht, wenn in ein und derselben Predigt auf den Ablass die gleiche oder längere Zeit verwendet wird als für jenes.
-<br></br>
-<strong>56. </strong> Die Meinung des Papstes ist unbedingt die: Wenn der Ablass - als das Geringste - mit einer Glocke, einer Prozession und einem Gottesdienst gefeiert wird, sollte das Evangelium - als das Höchste - mit hundert Glocken, hundert Prozessionen und hundert Gottesdiensten gepredigt werden.
-<br></br>
-<strong>57. </strong> Der Schatz der Kirche, aus dem der Papst den Ablass austeilt, ist bei dem Volke Christi weder genügend genannt noch bekannt. 
-
-<strong>58. </strong>  Offenbar besteht er nicht in zeitlichen Gütern, denn die würden viele von den Predigern nicht so leicht mit vollen Händen austeilen, sondern bloß sammeln.
-<br></br>
-<strong>59. </strong> Er besteht aber auch nicht aus den Verdiensten Christi und der Heiligen, weil diese dauernd ohne den Papst Gnade für den inwendigen Menschen sowie Kreuz, Tod und Hölle für den äußeren bewirken.
-<br></br>
-<strong>60. </strong> Der heilige Laurentius hat gesagt, dass der Schatz der Kirche ihre Armen seien, aber die Verwendung dieses Begriffes entsprach der Auffassung seiner Zeit.
-<br></br>
-<strong>61. </strong> Wohlbegründet sagen wird, dass die Schlüssel der Kirche - die ihr durch das Verdienst Christi geschenkt sind - jenen Schatz darstellen.
-<br></br>
-<strong>62. </strong> Selbstverständlich genügt die Gewalt des Papstes allein zum Erlass von Strafen und zur Vergebung in besondern, ihm vorbehaltenen Fällen.
-<br></br>
-<strong>63. </strong> Der wahre Schatz der Kirche ist das allerheiligste Evangelium von der Herrlichkeit und Gnade Gottes.
-<br></br>
-<strong>64. </strong> Dieser ist zu Recht allgemein verhasst, weil er aus Ersten Letzte macht.
-<br></br>
-<strong>65. </strong> Der Schatz des Ablasses jedoch ist zu Recht außerordentlich beliebt, weil er aus Letzten Erste macht.
-<br></br>
-<strong>66. </strong> Also ist der Schatz des Evangeliums das Netz, mit dem man einst die Besitzer von Reichtum fing.
-<br></br>
-<strong>67. </strong> Der Schatz des Ablasses ist das Netz, mit dem man jetzt den Reichtum von Besitzenden fängt.
-<br></br>
-<strong>68. </strong> Der Ablass, den die Ablassprediger lautstark als außerordentliche Gnaden anpreisen, kann tatsächlich dafür gelten, was das gute Geschäft anbelangt.
-<br></br>
-<strong>69. </strong>. Doch sind sie, verglichen mit der Gnade Gottes und der Verehrung des Kreuzes, in der Tat ganz geringfügig.
-<br></br>
-<strong>70. </strong> Die Bischöfe und Pfarrer sind gehalten, die Kommissare des apostolischen Ablasses mit aller Ehrerbietung zuzulassen.
-<br></br>
-<strong>71. </strong> Aber noch mehr sind sie gehalten, Augen und Ohren anzustrengen, dass jene nicht anstelle des päpstlichen Auftrags ihre eigenen Fantastereien predigen.
-<br></br>
-<strong>72. </strong> Wer gegen die Wahrheit des apostolischen Ablasses spricht, der sei verworfen und verflucht.
-<br></br>
-<strong>73. </strong> Aber wer gegen die Zügellosigkeit und Frechheit der Worte der Ablassprediger auftritt, der sei gesegnet.
-<br></br>
-<strong>74. </strong> Wie der Papst zu Recht seinen Bannstrahl gegen diejenigen schleudert, die hinsichtlich des Ablassgeschäftes auf mannigfache Weise Betrug ersinnen,
-<br></br>
-<strong>75. </strong> So will er viel mehr den Bannstrahl gegen diejenigen schleudern, die unter dem Vorwand des Ablasses auf Betrug hinsichtlich der heiligen Liebe und Wahrheit sinnen.
-<br></br>
-<strong>76. </strong> Es ist irrsinnig zu meinen, dass der päpstliche Ablass mächtig genug sei, einen Menschen loszusprechen, auch wenn er - was ja unmöglich ist - der Gottesgebärerin Gewalt angetan hätte.
-<br></br>
-<strong>77. </strong> Wir behaupten dagegen, dass der päpstliche Ablass auch nicht die geringste lässliche Sünde wegnehmen kann, was deren Schuld betrifft.
-<br></br>
-<strong>78. </strong> Wenn es heißt, auch der heilige Petrus könnte, wenn er jetzt Papst wäre, keine größeren Gnaden austeilen, so ist das eine Lästerung des heiligen Petrus und des Papstes.
-<br></br>
-<strong>79. </strong> Wir behaupten dagegen, dass dieser wie jeder beliebige Papst größere hat, nämlich das Evangelium, "Geisteskräfte und Gaben, gesund zu machen" usw., wie es 1. Kor. 12 heißt.
-<br></br>
-<strong>80. </strong> Es ist Gotteslästerung zu sagen, dass das (in den Kirchen) an hervorragender Stelle errichtete (Ablass-) Kreuz, das mit dem päpstlichen Wappen versehen ist, dem Kreuz Christi gleichkäme.
-<br></br>
-<strong>81. </strong> Bischöfe, Pfarrer und Theologen, die dulden, dass man dem Volk solche Predigt bietet, werden dafür Rechenschaft ablegen müssen.
-<br></br>
-<strong>82. </strong> Diese freche Ablasspredigt macht es auch gelehrten Männern nicht leicht, das Ansehen des Papstes vor böswilliger Kritik oder sogar vor spitzfindigen Fragen der Laien zu schützen.
-<br></br>
-<strong>83. </strong> Zum Beispiel: Warum räumt der Papst nicht das Fegefeuer aus um der heiligsten Liebe und höchsten Not der Seelen willen - als aus einem wirklich triftigen Grund -, da er doch unzählige Seelen loskauft um des unheilvollen Geldes zum Bau einer Kirche willen - als aus einem sehr fadenscheinigen Grund -?
-<br></br>
-<strong>84. </strong> Oder: Warum bleiben die Totenmessen sowie Jahrfeiern für die Verstorbenen bestehen, und warum gibt er (der Papst) nicht die Stiftungen, die dafür gemacht worden sind, zurück oder gestattet ihre Rückgabe,wenn es schon ein Unrecht ist, für die Losgekauften zu beten?
-<br></br>
-<strong>85. </strong> Oder: Was ist das für eine neue Frömmigkeit vor Gott und dem Papst, daß sie einem Gottlosen und Feinde erlauben, für sein Geld eine fromme und von Gott geliebte Seele loszukaufen; doch um der eigenen Not dieser frommen und geliebten Seele willen erlösen sie diese nicht aus freigeschenkter Liebe?
-<br></br>
-<strong>86. </strong> Oder: Warum werden die kirchlichen Bußsatzungen, die "tatsächlich und durch Nichtgebrauch" an sich längst abgeschafft und tot sind, doch noch immer durch die Gewährung von Ablass mit Geld abgelöst, als wären sie höchst lebendig?
-<br></br>
-<strong>87. </strong> Oder: Warum baut der Papst, der heute reicher ist als der reichste Crassus, nicht wenigstens die eine Kirche St. Peter lieber von seinem eigenen Geld als dem der armen Gläubigen?
-<br></br>
-<strong>88. </strong> Oder: Was erlässt der Papst oder woran gibt er denen Anteil, die durch vollkommene Reue ein Anrecht haben auf völligen Erlass und völlige Teilhabe?
-<br></br>
-<strong>89. </strong> Oder: Was könnte der Kirche Besseres geschehen, als wenn der Papst, wie er es (jetzt) einmal tut, hundertmal am Tage jedem Gläubigen diesen Erlass und diese Teilhabe zukommen ließe?
-<br></br>
-<strong>90. </strong> Wieso sucht der Papst durch den Ablass das Heil der Seelen mehr als das Geld; warum hebt er früher gewährte Briefe und Ablässe jetzt auf, die doch ebenso wirksam sind?
-<br></br>
-<strong>91. </strong> Diese äußerst peinlichen Einwände der Laien nur mit Gewalt zu unterdrücken und nicht durch vernünftige Gegenargumente zu beseitigen heißt, die Kirche und den Papst dem Gelächter der Feinde auszusetzen und die Christenheit unglücklich zu machen.
-<br></br>
-<strong>92. </strong> Wenn daher der Ablass dem Geiste und der Auffassung des Papstes gemäß gepredigt würde, lösten sich diese (Einwände) alle ohne weiteres auf, ja es gäbe sie überhaupt nicht.
-<br></br>
-<strong>93. </strong> Darum weg mit allen jenen Propheten, die den Christen predigen: "Friede, Friede", und ist doch kein Friede.
-<br></br>
-<strong>94. </strong> Wohl möge es gehen allen den Propheten, die den Christen predigen: "Kreuz, Kreuz", und ist doch kein Kreuz. 
-Man soll die Christen ermutigen, dass sie ihrem Haupt Christus durch Strafen, Tod und Hölle nachzufolgen trachten
-<br></br>
-<strong>95. </strong> und dass die lieber darauf trauen, durch viele Trübsale ins Himmelreich einzugehen, als sich in falscher geistlicher Sicherheit zu beruhigen.
-	  <br></br><br></br>
 
 
 
@@ -1538,5 +1334,213 @@ The only purport of the form thou art, the real I myself,
 No special strains to sing, none for itself,
 But from the whole resulting, rising at last and floating,
           A round full-orb'd eidolon.
+
+
+
+<h1 id="section6"> Martin Luther </h1>
+<br> </br>
+	
+	
+Hallo, mein Name ist Martin Luther!<br>
+Ich habe am 31. Oktober meine Selbstpublikation in der Form einer Gebiete Spezifischen Installation zur schau gestellt. Es ging mir dabei weniger um Profit sondern um einen Aufruf 
+um das Bestehende System zu kritisieren. Dies gelang mir auch insofern als das ich noch heute für diese Installation bekannt bin und sie auch unter großen Druck nicht zurücknahm.
+Meine Publikation fand bei meinen Zeitgenossen großen Anklang doch war die Meinung darüber doch sehr gespalten. Manche behaupten sogar, dass sie der Auslöser eines Krieges seien.
+<br></br>
+	
+	  <h1 id="section7"> 95 Thesen</h1>
+	<br> </br>
+
+<strong>1. </strong>Aus Liebe zur Wahrheit und in dem Bestreben, diese zu ergründen, soll in Wittenberg unter dem Vorsitz des ehrwürdigen Vaters Martin Luther, Magisters der freien Künste und der heiligen Theologie sowie deren ordentlicher Professor daselbst, über die folgenden Sätze disputiert werden. Deshalb bittet er die, die nicht anwesend sein und mündlich mit uns debattieren können, dieses in Abwesenheit schriftlich zu tun. Im Namen unseres Herrn Jesu Christi, Amen.
+	
+	<br></br>
+ <strong>2. </strong> Da unser Herr und Meister Jesus Christus spricht: "Tut Buße" usw. (Matth. 4,17), hat er gewollt, dass das ganze Leben der Gläubigen Buße sein soll.
+	  <br></br>
+ <strong>3.</strong> Dieses Wort kann nicht von der Buße als Sakrament - d. h. von der Beichte und Genugtuung -, die durch das priesterliche Amt verwaltet wird, verstanden werden.
+	  <br></br>
+ <strong>4. </strong>Es bezieht sich nicht nur auf eine innere Buße, ja eine solche wäre gar keine, wenn sie nicht nach außen mancherlei Werke zur Abtötung des Fleisches bewirkte.
+	  <br></br>
+<strong>5. </strong>  Daher bleibt die Strafe, solange der Hass gegen sich selbst - das ist die wahre Herzensbuße - bestehen bleibt, also bis zum Eingang ins Himmelreich.
+	  <br></br>
+<strong>6. </strong>  Der Papst will und kann keine Strafen erlassen, außer solchen, die er auf Grund seiner eigenen Entscheidung oder der der kirchlichen Satzungen auferlegt hat.
+	  <br></br>
+<strong>7. </strong>   Der Papst kann eine Schuld nur dadurch erlassen, dass er sie als von Gott erlassen erklärt und bezeugt, natürlich kann er sie in den ihm vorbehaltenen Fällen erlassen; wollte man das gering achten, bliebe die Schuld ganz und gar bestehen.
+	  <br></br>
+<strong>8. </strong>  Gott erlässt überhaupt keinem die Schuld, ohne ihn zugleich demütig in allem dem Priester, seinem Stellvertreter, zu unterwerfen.
+	  <br></br>
+<strong>9. </strong>  Die kirchlichen Bestimmungen über die Buße sind nur für die Lebenden verbindlich, den Sterbenden darf demgemäß nichts auferlegt werden.
+	  <br></br>
+<strong>10. </strong>  Daher handelt der Heilige Geist, der durch den Papst wirkt, uns gegenüber gut, wenn er in seinen Erlassen immer den Fall des Todes und der höchsten Not ausnimmt.
+	  <br></br>
+<strong>11. </strong>  Unwissend und schlecht handeln diejenigen Priester, die den Sterbenden kirchliche Bußen für das Fegefeuer aufsparen.
+	  <br></br>
+<strong>12. </strong>  Die Meinung, dass eine kirchliche Bußstrafe in eine Fegefeuerstrafe umgewandelt werden könne, ist ein Unkraut, das offenbar gesät worden ist, während die Bischöfe schliefen.
+	  <br></br>
+<strong>13. </strong>  Früher wurden die kirchlichen Bußstrafen nicht nach, sondern vor der Absolution auferlegt, gleichsam als Prüfstein für die Aufrichtigkeit der Reue.
+	  <br></br>
+<strong>14. </strong>  Die Sterbenden werden durch den Tod von allem gelöst, und für die kirchlichen Satzungen sind sie schon tot, weil sie von Rechts wegen davon befreit sind.
+	  <br></br>
+<strong>15. </strong> Ist die Haltung eines Sterbenden und die Liebe (Gott gegenüber) unvollkommen, so bringt ihm das notwendig große Furcht, und diese ist um so größer, je geringer jene ist.
+	  <br></br>
+<strong>16. </strong> Diese Furcht und dieser Schrecken genügen für sich allein - um von anderem zu schweigen -, die Pein des Fegefeuers auszumachen; denn sie kommen dem Grauen der Verzweiflung ganz nahe.
+	  <br></br>
+<strong>17. </strong>  Es scheinen sich demnach Hölle, Fegefeuer und Himmel in der gleichen Weise zu unterscheiden wie Verzweiflung, annähernde Verzweiflung und Sicherheit.
+	  <br></br>
+<strong>18. </strong>  Offenbar haben die Seelen im Fegefeuer die Mehrung der Liebe genauso nötig wie eine Minderung des Grauens.
+	  <br></br>
+<strong>19. </strong>  Offenbar ist es auch weder durch Vernunft- noch Schriftgründe erwiesen, daß sie sich außerhalb des Zustandes befinden, in dem sie Verdienste erwerben können oder in dem die Liebe zunehmen kann.
+	  <br></br>
+<strong>20. </strong>  Offenbar ist auch dieses nicht erwiesen, dass sie - wenigstens nicht alle - ihrer Seligkeit sicher und gewiß sind, wenngleich wir ihrer völlig sicher sind.
+	  <br></br>
+<strong>21. </strong>  Daher meint der Papst mit dem vollkommenen Erlass aller Strafen nicht einfach den Erlass sämtlicher Strafen, sondern nur derjenigen, die er selbst auferlegt hat.
+	  <br></br>
+<strong>22. </strong>  Deshalb irren jene Ablassprediger, die sagen, dass durch die Ablässe des Papstes der Mensch von jeder Strafe frei und los werde.
+	  <br></br>
+<strong>23. </strong>  Vielmehr erlässt er den Seelen im Fegefeuer keine einzige Strafe, die sie nach den kirchlichen Satzungen in diesem Leben hätten abbüßen müssen.
+	  <br></br>
+<strong>24. </strong> Wenn überhaupt irgendwem irgendein Erlass aller Strafen gewährt werden kann, dann gewiß allein den Vollkommensten, das heißt aber, ganz wenigen.
+	  <br></br>
+<strong>25. </strong>  Deswegen wird zwangsläufig ein Großteil des Volkes durch jenes in Bausch und Bogen und großsprecherisch gegebene Versprechen des Straferlasses getäuscht.
+	  <br></br>
+<strong>26. </strong>  Die gleiche Macht, die der Papst bezüglich des Fegefeuers im allgemeinen hat, besitzt jeder Bischof und jeder Seelsorger in seinem Bistum bzw. seinem Pfarrbezirk im besonderen.
+	  <br></br>
+<strong>27. </strong> Der Papst handelt sehr richtig, den Seelen (im Fegefeuer) die Vergebung nicht auf Grund seiner - ihm dafür nicht zur Verfügung stehenden - Schlüsselgewalt, sondern auf dem Wege der Fürbitte zuzuwenden.
+	  <br></br>
+<strong>28. </strong>  Menschenlehre verkündigen die, die sagen, daß die Seele (aus dem Fegefeuer) emporfliege, sobald das Geld im Kasten klingt.
+	  <br></br>
+<strong>29. </strong>  Gewiss, sobald das Geld im Kasten klingt, können Gewinn und Habgier wachsen, aber die Fürbitte der Kirche steht allein auf dem Willen Gottes.
+	  <br></br>
+<strong>30. </strong>  Wer weiß denn, ob alle Seelen im Fegefeuer losgekauft werden wollen, wie es beispielsweise beim heiligen Severin und Paschalis nicht der Fall gewesen sein soll.
+	  <br></br>
+<strong>31. </strong>  Keiner ist der Echtheit seiner Reue gewiss, viel weniger, ob er völligen Erlass (der Sündenstrafe) erlangt hat.
+	<br></br>  
+<strong>32. </strong>  So selten einer in rechter Weise Buße tut, so selten kauft einer in der rechten Weise Ablass, nämlich außerordentlich selten.
+	  <br></br>
+<strong>33.</strong>  Wer glaubt, durch einen Ablassbrief seines Heils gewiss sein zu können, wird auf ewig mit seinen Lehrmeistern verdammt werden.
+	  <br></br>
+<strong>34. </strong>  Nicht genug kann man sich vor denen hüten, die den Ablass des Papstes jene unschätzbare Gabe Gottes nennen, durch die der Mensch mit Gott versöhnt werde.
+	  <br></br>
+<strong>35. </strong>  Jene Ablassgnaden beziehen sich nämlich nur auf die von Menschen festgesetzten Strafen der sakramentalen Genugtuung.
+	  <br></br>
+<strong>36. </strong>  Nicht christlich predigen die, die lehren, dass für die, die Seelen (aus dem Fegefeuer) loskaufen oder Beichtbriefe erwerben, Reue nicht nötig sei.
+	  <br></br>
+<strong>37. </strong>  Jeder Christ, der wirklich bereut, hat Anspruch auf völligen Erlass von Strafe und Schuld, auch ohne Ablassbrief.
+	  <br></br>
+<strong>38. </strong>  Jeder wahre Christ, sei er lebendig oder tot, hat Anteil an allen Gütern Christi und der Kirche, von Gott ihm auch ohne Ablassbrief gegeben.
+	  <br></br>
+<strong>39. </strong>  Doch dürfen der Erlass und der Anteil (an den genannten Gütern), die der Papst vermittelt, keineswegs gering geachtet werden, weil sie - wie ich schon sagte - die Erklärung der göttlichen Vergebung darstellen.
+	  <br></br>
+<strong>40. </strong>  Auch den gelehrtesten Theologen dürfte es sehr schwerfallen, vor dem Volk zugleich die Fülle der Ablässe und die Aufrichtigkeit der Reue zu rühmen.
+	  <br></br>
+<strong>41. </strong>  Aufrichtige Reue begehrt und liebt die Strafe. Die Fülle der Ablässe aber macht gleichgültig und lehrt sie hassen, wenigstens legt sie das nahe.
+	  <br></br>
+<strong>42. </strong>  Nur mit Vorsicht darf der apostolische Ablass gepredigt werden, damit das Volk nicht fälschlicherweise meint, er sei anderen guten Werken der Liebe vorzuziehen.
+	  <br></br>
+<strong>43. </strong>  Man soll die Christen lehren: Die Meinung des Papstes ist es nicht, dass der Erwerb von Ablass in irgendeiner Weise mit Werken der Barmherzigkeit zu vergleichen sei.
+	  <br></br>
+<strong>44. </strong>  Man soll den Christen lehren: Dem Armen zu geben oder dem Bedürftigen zu leihen ist besser, als Ablass zu kaufen.
+<br></br>
+<strong>45. </strong> Denn durch ein Werk der Liebe wächst die Liebe und wird der Mensch besser, aber durch Ablass wird er nicht besser, sondern nur teilweise von der Strafe befreit.
+	  <br></br>
+<strong>46. </strong> Man soll die Christen lehren: Wer einen Bedürftigen sieht, ihn übergeht und statt dessen für den Ablass gibt, kauft nicht den Ablass des Papstes, sondern handelt sich den Zorn Gottes ein.
+	  <br></br>
+<strong>47. </strong> Man soll die Christen lehren: Die, die nicht im Überfluss leben, sollen das Lebensnotwendige für ihr Hauswesen behalten und keinesfalls für den Ablass verschwenden.
+<br></br>
+<strong>48. </strong> Man soll die Christen lehren: Der Kauf von Ablass ist eine freiwillige Angelegenheit, nicht geboten.
+<br></br>
+<strong>49. </strong> Man soll die Christen lehren: Der Papst hat bei der Erteilung von Ablass ein für ihn dargebrachtes Gebet nötiger und wünscht es deshalb auch mehr als zur Verfügung gestelltes Geld.
+<br></br>
+<strong>50. </strong> Man soll die Christen lehren: Der Ablass des Papstes ist nützlich, wenn man nicht sein Vertrauen darauf setzt, aber sehr schädlich, falls man darüber die Furcht Gottes fahren lässt.
+<br></br>
+<strong>51. </strong> Man soll die Christen lehren: Wenn der Papst die Erpressungsmethoden der Ablassprediger wüsste, sähe er lieber die Peterskirche in Asche sinken, als daß sie mit Haut, Fleisch und Knochen seiner Schafe erbaut würde.
+<br></br>
+<strong>52. </strong> Man soll die Christen lehren: Der Papst wäre, wie es seine Pflicht ist, bereit - wenn nötig -, die Peterskirche zu verkaufen, um von seinem Gelde einem großen Teil jener zu geben, denen gewisse Ablassprediger das Geld aus der Tasche holen.
+<br></br>
+<strong>53. </strong>Auf Grund eines Ablassbriefes das Heil zu erwarten ist eitel, auch wenn der (Ablass-)Kommissar, ja der Papst selbst ihre Seelen dafür verpfändeten.
+<br></br>
+<strong>54. </strong> Die anordnen, dass um der Ablasspredigt willen das Wort Gottes in den umliegenden Kirchen völlig zum Schweigen komme, sind Feinde Christi und des Papstes.
+<br></br>
+<strong>55. </strong> Dem Wort Gottes geschieht Unrecht, wenn in ein und derselben Predigt auf den Ablass die gleiche oder längere Zeit verwendet wird als für jenes.
+<br></br>
+<strong>56. </strong> Die Meinung des Papstes ist unbedingt die: Wenn der Ablass - als das Geringste - mit einer Glocke, einer Prozession und einem Gottesdienst gefeiert wird, sollte das Evangelium - als das Höchste - mit hundert Glocken, hundert Prozessionen und hundert Gottesdiensten gepredigt werden.
+<br></br>
+<strong>57. </strong> Der Schatz der Kirche, aus dem der Papst den Ablass austeilt, ist bei dem Volke Christi weder genügend genannt noch bekannt. 
+
+<strong>58. </strong>  Offenbar besteht er nicht in zeitlichen Gütern, denn die würden viele von den Predigern nicht so leicht mit vollen Händen austeilen, sondern bloß sammeln.
+<br></br>
+<strong>59. </strong> Er besteht aber auch nicht aus den Verdiensten Christi und der Heiligen, weil diese dauernd ohne den Papst Gnade für den inwendigen Menschen sowie Kreuz, Tod und Hölle für den äußeren bewirken.
+<br></br>
+<strong>60. </strong> Der heilige Laurentius hat gesagt, dass der Schatz der Kirche ihre Armen seien, aber die Verwendung dieses Begriffes entsprach der Auffassung seiner Zeit.
+<br></br>
+<strong>61. </strong> Wohlbegründet sagen wird, dass die Schlüssel der Kirche - die ihr durch das Verdienst Christi geschenkt sind - jenen Schatz darstellen.
+<br></br>
+<strong>62. </strong> Selbstverständlich genügt die Gewalt des Papstes allein zum Erlass von Strafen und zur Vergebung in besondern, ihm vorbehaltenen Fällen.
+<br></br>
+<strong>63. </strong> Der wahre Schatz der Kirche ist das allerheiligste Evangelium von der Herrlichkeit und Gnade Gottes.
+<br></br>
+<strong>64. </strong> Dieser ist zu Recht allgemein verhasst, weil er aus Ersten Letzte macht.
+<br></br>
+<strong>65. </strong> Der Schatz des Ablasses jedoch ist zu Recht außerordentlich beliebt, weil er aus Letzten Erste macht.
+<br></br>
+<strong>66. </strong> Also ist der Schatz des Evangeliums das Netz, mit dem man einst die Besitzer von Reichtum fing.
+<br></br>
+<strong>67. </strong> Der Schatz des Ablasses ist das Netz, mit dem man jetzt den Reichtum von Besitzenden fängt.
+<br></br>
+<strong>68. </strong> Der Ablass, den die Ablassprediger lautstark als außerordentliche Gnaden anpreisen, kann tatsächlich dafür gelten, was das gute Geschäft anbelangt.
+<br></br>
+<strong>69. </strong>. Doch sind sie, verglichen mit der Gnade Gottes und der Verehrung des Kreuzes, in der Tat ganz geringfügig.
+<br></br>
+<strong>70. </strong> Die Bischöfe und Pfarrer sind gehalten, die Kommissare des apostolischen Ablasses mit aller Ehrerbietung zuzulassen.
+<br></br>
+<strong>71. </strong> Aber noch mehr sind sie gehalten, Augen und Ohren anzustrengen, dass jene nicht anstelle des päpstlichen Auftrags ihre eigenen Fantastereien predigen.
+<br></br>
+<strong>72. </strong> Wer gegen die Wahrheit des apostolischen Ablasses spricht, der sei verworfen und verflucht.
+<br></br>
+<strong>73. </strong> Aber wer gegen die Zügellosigkeit und Frechheit der Worte der Ablassprediger auftritt, der sei gesegnet.
+<br></br>
+<strong>74. </strong> Wie der Papst zu Recht seinen Bannstrahl gegen diejenigen schleudert, die hinsichtlich des Ablassgeschäftes auf mannigfache Weise Betrug ersinnen,
+<br></br>
+<strong>75. </strong> So will er viel mehr den Bannstrahl gegen diejenigen schleudern, die unter dem Vorwand des Ablasses auf Betrug hinsichtlich der heiligen Liebe und Wahrheit sinnen.
+<br></br>
+<strong>76. </strong> Es ist irrsinnig zu meinen, dass der päpstliche Ablass mächtig genug sei, einen Menschen loszusprechen, auch wenn er - was ja unmöglich ist - der Gottesgebärerin Gewalt angetan hätte.
+<br></br>
+<strong>77. </strong> Wir behaupten dagegen, dass der päpstliche Ablass auch nicht die geringste lässliche Sünde wegnehmen kann, was deren Schuld betrifft.
+<br></br>
+<strong>78. </strong> Wenn es heißt, auch der heilige Petrus könnte, wenn er jetzt Papst wäre, keine größeren Gnaden austeilen, so ist das eine Lästerung des heiligen Petrus und des Papstes.
+<br></br>
+<strong>79. </strong> Wir behaupten dagegen, dass dieser wie jeder beliebige Papst größere hat, nämlich das Evangelium, "Geisteskräfte und Gaben, gesund zu machen" usw., wie es 1. Kor. 12 heißt.
+<br></br>
+<strong>80. </strong> Es ist Gotteslästerung zu sagen, dass das (in den Kirchen) an hervorragender Stelle errichtete (Ablass-) Kreuz, das mit dem päpstlichen Wappen versehen ist, dem Kreuz Christi gleichkäme.
+<br></br>
+<strong>81. </strong> Bischöfe, Pfarrer und Theologen, die dulden, dass man dem Volk solche Predigt bietet, werden dafür Rechenschaft ablegen müssen.
+<br></br>
+<strong>82. </strong> Diese freche Ablasspredigt macht es auch gelehrten Männern nicht leicht, das Ansehen des Papstes vor böswilliger Kritik oder sogar vor spitzfindigen Fragen der Laien zu schützen.
+<br></br>
+<strong>83. </strong> Zum Beispiel: Warum räumt der Papst nicht das Fegefeuer aus um der heiligsten Liebe und höchsten Not der Seelen willen - als aus einem wirklich triftigen Grund -, da er doch unzählige Seelen loskauft um des unheilvollen Geldes zum Bau einer Kirche willen - als aus einem sehr fadenscheinigen Grund -?
+<br></br>
+<strong>84. </strong> Oder: Warum bleiben die Totenmessen sowie Jahrfeiern für die Verstorbenen bestehen, und warum gibt er (der Papst) nicht die Stiftungen, die dafür gemacht worden sind, zurück oder gestattet ihre Rückgabe,wenn es schon ein Unrecht ist, für die Losgekauften zu beten?
+<br></br>
+<strong>85. </strong> Oder: Was ist das für eine neue Frömmigkeit vor Gott und dem Papst, daß sie einem Gottlosen und Feinde erlauben, für sein Geld eine fromme und von Gott geliebte Seele loszukaufen; doch um der eigenen Not dieser frommen und geliebten Seele willen erlösen sie diese nicht aus freigeschenkter Liebe?
+<br></br>
+<strong>86. </strong> Oder: Warum werden die kirchlichen Bußsatzungen, die "tatsächlich und durch Nichtgebrauch" an sich längst abgeschafft und tot sind, doch noch immer durch die Gewährung von Ablass mit Geld abgelöst, als wären sie höchst lebendig?
+<br></br>
+<strong>87. </strong> Oder: Warum baut der Papst, der heute reicher ist als der reichste Crassus, nicht wenigstens die eine Kirche St. Peter lieber von seinem eigenen Geld als dem der armen Gläubigen?
+<br></br>
+<strong>88. </strong> Oder: Was erlässt der Papst oder woran gibt er denen Anteil, die durch vollkommene Reue ein Anrecht haben auf völligen Erlass und völlige Teilhabe?
+<br></br>
+<strong>89. </strong> Oder: Was könnte der Kirche Besseres geschehen, als wenn der Papst, wie er es (jetzt) einmal tut, hundertmal am Tage jedem Gläubigen diesen Erlass und diese Teilhabe zukommen ließe?
+<br></br>
+<strong>90. </strong> Wieso sucht der Papst durch den Ablass das Heil der Seelen mehr als das Geld; warum hebt er früher gewährte Briefe und Ablässe jetzt auf, die doch ebenso wirksam sind?
+<br></br>
+<strong>91. </strong> Diese äußerst peinlichen Einwände der Laien nur mit Gewalt zu unterdrücken und nicht durch vernünftige Gegenargumente zu beseitigen heißt, die Kirche und den Papst dem Gelächter der Feinde auszusetzen und die Christenheit unglücklich zu machen.
+<br></br>
+<strong>92. </strong> Wenn daher der Ablass dem Geiste und der Auffassung des Papstes gemäß gepredigt würde, lösten sich diese (Einwände) alle ohne weiteres auf, ja es gäbe sie überhaupt nicht.
+<br></br>
+<strong>93. </strong> Darum weg mit allen jenen Propheten, die den Christen predigen: "Friede, Friede", und ist doch kein Friede.
+<br></br>
+<strong>94. </strong> Wohl möge es gehen allen den Propheten, die den Christen predigen: "Kreuz, Kreuz", und ist doch kein Kreuz. 
+Man soll die Christen ermutigen, dass sie ihrem Haupt Christus durch Strafen, Tod und Hölle nachzufolgen trachten
+<br></br>
+<strong>95. </strong> und dass die lieber darauf trauen, durch viele Trübsale ins Himmelreich einzugehen, als sich in falscher geistlicher Sicherheit zu beruhigen.
+	  
 
 </pre>
