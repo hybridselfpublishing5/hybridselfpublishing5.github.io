@@ -81,6 +81,7 @@ body{
 .slider-buttons:hover { cursor:pointer; }
 
 #main-slider-next {
+font-size:22px;
     left:47%;
     top:80%;
 }
