@@ -56,7 +56,10 @@ body{
 	width:1000px;
 	height:600px;
 	background-color:#fff;
-	margin-left: 20%;
+	top:50%;
+	left:50%;
+	
+	
 }
 
 .slider-wrapper {
