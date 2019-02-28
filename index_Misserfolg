@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publishit</title>
+  <link rel="stylesheet" type="text/css" href="shared/style.css" />
+</head>
+
+<body>
+  
+  <script type="text/javascript" src='https://unpkg.com/bindery'></script>
+  <script type="text/javascript" src='https://unpkg.com/bindery-controls'></script>
+
+
+  <script>
+    Bindery.makeBook({
+      content: {
+        url: 'shared/content_Misserfolg.html',
+        selector: ".content",
+      },
+      pageSetup: {
+    	size: { width: '148mm', height: '210mm' },
+    	margin: { top: '70pt', inner: '70pt', outer: '70pt', bottom: '85pt' },
+      },
+      pageNumberOffset: -4,	
+		
+      rules: [
+        Bindery.PageBreak({ selector: 'h1, h2', position: 'before', continue: 'right' }),
+        Bindery.PageBreak({ selector: 'h4', position: 'before', continue: 'next' }),
+        Bindery.Footnote({ selector: 'p' }),
+        Bindery.Footnote({
+          selector: 'p > a',
+          render: (elmt, number) => `<sup>${number}</sup> Link to <u>${elmt.getAttribute('href')}</u>`,
+        }),
+        Bindery.FullBleedPage({ selector: '.med-figure' }),
+        Bindery.FullBleedSpread({ selector: '.big-figure' }),
+        Bindery.RunningHeader({
+          render: (page) => {
+	    if ( page.number < 1) return '';
+            if (page.isLeft) return `${page.number} · ${page.heading.h1|| ''} `;
+            else if (page.isRight) return `${page.heading.h1 || ''} · ${page.number}`;
+          },
+        }),
+	  
+		  
+        Bindery.PageReference({
+          selector: ".toc a",
+          replace: (element, number) => {
+            let row = document.createElement('div');
+            row.innerHTML = `${element.textContent}`;
+            row.innerHTML += `<span style='float: right;'>${number}</span>`;
+            return row;
+          }
+        }),
+      ],
+    });
+  </script>
+
+</body>
+</html>
