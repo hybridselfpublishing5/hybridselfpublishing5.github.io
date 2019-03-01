@@ -24,6 +24,9 @@ Inwieweit erweitert Code die Ausdrucksweisen von Kreativität (beim Self-Publish
 One-Minute-Paper:
 Ich denke dass Code die Ausdrucksweise von Kreativität erweitert. Mit Code bewegt man sich ohne Einschränkungen, Vorgaben durch irgendwelche Programme.
 
+EINLEITUNG 300-500 Wörter
+Programmieren können, das machen doch die Computernerds. Das hat doch nichts mit Design zu tun. Der Designer sagt doch bloß dem Programmierer wie es aussehen soll. Wieso sollte man sich denn mit Programmiersprache außeinandersetzen wenn man etwas Kreatives gestalten möchte. Solche Aussagen hängen in vielen Köpfen fest. Dabei ist eigentlich längst durchgesickert dass man als Designer leichter durchs Leben kommt wenn man seine Gestaltung selber umsetzen kann, da kann sich das Coden grade im Bereich des von Web- und App-Designs als ganz schön nützlich erweisen.
+
 Meine Position
 - Einschränkungen durch Programme und deren begrenzte Möglichkeiten/ Vorgaben
 - "rohe Dateien", nicht Voreingenommen, nicht in irgendeiner Schublade
