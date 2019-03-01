@@ -2,6 +2,22 @@
 # Code macht kreativ
 *Annika Bertram*
 
+Kriterien an Text:
+
+    Ist das Thema klar eingegrenzt und deutlich wozu Position bezogen wird. (Überschrift & Einleitung)
+
+    Wird eine Position bezogen? Ist deutlich wo der Text hin will? (Einleitung)
+
+    Wird die Position argumentiert? (Hauptteil)
+
+    Werden Positionen anderer Autoren miteinbezogen?
+
+    Werden Argumente (und Gegenargumente) strukturiert wiedergegeben?
+
+    Wird abschließend die Position zusammengefasst? (Zusammenfassung)
+
+    Wird mit Quellen wissenschaftlich umgegangen? Sind mindestens fünf wissenschaftliche Quellen dazugezogen?
+
 Leitfrage:
 Inwieweit erweitert Code die Ausdrucksweisen von Kreativität (beim Self-Publishing)?
 
