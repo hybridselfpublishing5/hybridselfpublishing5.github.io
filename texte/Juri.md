@@ -7,7 +7,7 @@ Was ist Fanfiction?
 
 wie von Lisa Spägele definiert wird. Auf der Seite Fanfiction.net befinden sich momentan über 803.000 Fanfictions mit dem Tag “Harry Potter” <sup>2</sup> und das ist nur einer von vielen, vielen mehr und es kommen ständig Neue hinzu. 
 
-Es scheint jedoch so, als ob Fanfiction von Natur aus nicht vermarktbar ist, da ja das Eigentum eines anderen benutzt wird, um seine eigenen Geschichte zu schreiben. Man darf sie teilen, aber kein Geld dafür verlangen. In einem Interview sagt George R.R. Martin folgendes über das Vermarkten von Fanfiction:“What you want to do for your own amusement is great but you can’t selling it on ebay or merchandising it because then you’ll get sued…” <sup>3</sup>
+Es scheint jedoch so, als ob Fanfiction von Natur aus nicht vermarktbar ist, da ja das Eigentum eines anderen benutzt wird, um seine eigenen Geschichte zu schreiben. Man darf sie teilen, aber kein Geld dafür verlangen. In einem Interview sagt George R.R. Martin, der Autor der "Song of Ice and Fire" Bücher folgendes über das Vermarkten von Fanfiction:“What you want to do for your own amusement is great but you can’t selling it on ebay or merchandising it because then you’ll get sued…” <sup>3</sup>
 
 
 Das Thema Fanfiction ist unter Autoren umstritten, manche Autoren ermutigen zum Schreiben, andere sind klar dagegen. In seinem Journal schreibt S.L. Armstrong, der selbst ein Autor ist, über Fanfiction: 
