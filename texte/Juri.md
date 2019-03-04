@@ -1,10 +1,8 @@
 <h3>Ist es Möglich mit Fanfiction kommerziellen Erfolg zu haben?</h3>
 von Juri Bohr
-
+<br></br>
 Wenn man über das Thema Selbstpublikation redet kommt man irgendwann auf das Thema Fanfiction.
-
 Was ist Fanfiction?
-
 “Fanfiction bezeichnet von Fans geschaffene und jederzeit veränderbare Texte, die Originalmaterial wie Bücher, Filme, Fernsehserien, aber auch reale Personen abwandeln und ergänzen, wodurch neue Werke entstehen, die nicht kommerziell vertrieben werden, sondern kostenlos im Internet zur Verfügung stehen. <sup>1</sup>
 
 wie von Lisa Spägele definiert wird. Auf der Seite Fanfiction.net befinden sich momentan über 803.000 Fanfictions mit dem Tag “Harry Potter” <sup>2</sup> und das ist nur einer von vielen, vielen mehr und es kommen ständig Neue hinzu. 
