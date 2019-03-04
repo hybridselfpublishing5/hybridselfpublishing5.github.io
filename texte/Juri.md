@@ -1,4 +1,5 @@
 <h3>Ist es Möglich mit Fanfiction kommerziellen Erfolg zu haben?</h3>
+von Juri Bohr
 
 Wenn man über das Thema Selbstpublikation redet kommt man irgendwann auf das Thema Fanfiction.
 
