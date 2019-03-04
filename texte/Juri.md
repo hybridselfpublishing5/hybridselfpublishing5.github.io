@@ -61,14 +61,7 @@ Als Fazit daraus kann man ziehen, dass aus Fanfiction durchaus ein Profit geschl
 
 
 
-
-
-
-
-
-
-
-
+### Literaturverzeichnis
 
 1 Lisa Spägele “Fanfiction verlegen – Potential eines populären Genres für die Buchbranche” [online] https://spubbles.wordpress.com/2015/12/10/fanfiction-verlegen/[03.03.2019]
 
