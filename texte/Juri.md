@@ -66,7 +66,7 @@ Als Fazit daraus kann man ziehen, dass aus Fanfiction durchaus ein Profit geschl
 
 - 2 Vgl. [online] https://www.fanfiction.net/book/ [03.03.2019] 
 
-- 3 George RR Martin on Why He Hates Fan Fiction [online] (https://www.youtube.com/watch?v=u5g9-pfIImw&feature=youtu.be&t=104) [03.03.2019] 
+- 3 George RR Martin on Why He Hates Fan Fiction (2019) [online] (https://www.youtube.com/watch?v=u5g9-pfIImw&feature=youtu.be&t=104) [03.03.2019] 
 
 - 4 S.L Armstrong “Fanfiction and Copyright” [online] (https://slarmstrong.wordpress.com/2010/05/08/fanfiction-and-copyright/)  [04.03.2019] 
 
