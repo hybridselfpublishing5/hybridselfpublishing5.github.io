@@ -1,4 +1,5 @@
 Ist es Möglich mit Fanfiction kommerziellen Erfolg zu haben?
+
 Wenn man über das Thema Selbstpublikation redet kommt man irgendwann auf das Thema Fanfiction.
 
 Was ist Fanfiction?
@@ -55,6 +56,10 @@ Es bleibt abzusehen, ob dieses oder ähnliche Programme bestehen, jedoch ist Fan
 “Allerdings wurde die Plattform sowohl von Autoren als auch von Lesern kaum angenommen, denn die meisten Fans sehen Fanfiction als kostenlose Geschichte von Fans für Fans, missgönnen dem Einzelnen aber den Erfolg nicht. Kindle Worlds hat jedoch nicht versucht, den Einzelnen kommerziell zu vertreiben, sondern ein ganzes Fandom in ein Bezahlmodell zu stecken. Das funktionierte nicht.” 13
 
 Als Fazit daraus kann man ziehen, dass aus Fanfiction durchaus ein Profit geschlagen werden kann. Ob man nun den Weg von E.L. James und 50 Shades geht oder ein Programm wie Kindle World benutzt. Jedoch werden Fanfictions wohl auch zukünftig ohne kommerzielle Hintergedanken geschrieben werden. Das eintauchen in die Welt, das Teilen und das publizieren von Fans für Fans ist was den eigentlichen Reiz von Fanficion ausmacht, nicht das verdienen von Geld. 
+
+
+
+
 
 
 
