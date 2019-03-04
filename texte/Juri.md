@@ -66,18 +66,29 @@ Als Fazit daraus kann man ziehen, dass aus Fanfiction durchaus ein Profit geschl
 
 
 1 Lisa Spägele “Fanfiction verlegen – Potential eines populären Genres für die Buchbranche” [online] https://spubbles.wordpress.com/2015/12/10/fanfiction-verlegen/[03.03.2019]
+
 2 Vgl. [online] https://www.fanfiction.net/book/[03.03.2019] 
+
 3 George RR Martin on Why He Hates Fan Fiction [online] (https://www.youtube.com/watch?v=u5g9-pfIImw&feature=youtu.be&t=104)[03.03.2019] 
+
 4 S.L Armstrong “Fanfiction and Copyright” [online] (https://slarmstrong.wordpress.com/2010/05/08/fanfiction-and-copyright/)[04.03.2019] 
+
 5 Darren Waters, BBC News “Rowling backs Potter fan fiction” [online] (http://news.bbc.co.uk/2/hi/entertainment/3753001.stm)[04.03.2019]
+
 6 Ebd. 
+
 7 Ebd.
+
 8 Hugh McGuire.(2011) „Book: A Futurist's Manifesto: A Collection of Essays From the Bleeding Edge of Publishing.“ 
 9 Ebd.
+
 10 Vg E.L. James(2011)” 50 Shades” und Snowqueens Icedragon (2009) “Masters of the Universe“
  (ein genauer Vergleich ist auch auf der Seite [online]https://fiftyshadesofgrey.fandom.com/wiki/Master_of_the_Universe#During%20Fifty%20Shades%20of%20Grey”[04.03.2019] zu finden)
+ 
 11 vgl. [online]https://de.wikipedia.org/wiki/Melissa_Good [04.03.2019]
+
 12  Autumn Harbison  (28.04.2013) “Kindle Worlds: Amazone to Sell Fanfiction, But Should Fanfiction Writers Participate “
+
 13 Lisa Spägele “Fanfiction verlegen – Potential eines populären Genres für die Buchbranche” [online] https://spubbles.wordpress.com/2015/12/10/fanfiction-verlegen/[03.03.2019]
 
 
