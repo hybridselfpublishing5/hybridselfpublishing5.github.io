@@ -1,7 +1,7 @@
-#Vom Hobby-Autor zum Selfpublisher
-##Marktüberflutung und Qualitätsverlust, gefördert von Selfpublishing-Plattformen 
+# Vom Hobby-Autor zum Selfpublisher
+## Marktüberflutung und Qualitätsverlust, gefördert von Selfpublishing-Plattformen 
 
-### Irina Vdovina 
+#### Irina Vdovina 
 
 
 Mit der Digitalisierung hat sich der Weg des Publizierens revolutioniert. Konkreter bedeutet das, dass das traditionelle Veröffentlichen über einen Verleger (Autor-Verlger-Einzelhändler-Leser), an Konkurrenz gewonnen hat. Das Internet bietet Autoren nämlich die Chance den Türsteher, der bisher darüber entschieden hat, ob ein Autor in den Genuss kommt sein Werk der breiten Öffentlichkeit zu präsentieren, oder ob es dazu verdammt ist im Archiv zu verstauben, zu umgehen. Denn mit der Digitalisierung hat sich auch eine neue Leserschaft gebildet, die sich ins Besondere für die Erfindung des E-Books interessiert. Eine digitale Kundschaft, die eine Lücke im Buchmarkt aufmachte und somit neue Dienstleister und Einzelhändler einforderte, die dem Autor von nun an erlaubt, das eigene Werk ohne Umwege, selbst zu veröffentlichen. (vgl. Hviid et. al, 5 ff)
@@ -22,7 +22,7 @@ Dennoch entscheiden sich nur 33% der Hobby-Autoren dazu mit Dienstanbietern wie 
 Der Verlierer ist also nicht nur der Endverbraucher, der in dem weiten Ozean des Buchmarktes langsam den Überblick verliert, und an Qualität einbüßen muss, sondern auch die Hobby-Autoren, die nun zwar die Möglichkeit bekommen, das eigene Buch veröffentlicht zu sehen, dadurch jedoch zu meist keine oder nur kleine Gewinne erzielen können. (Matting, 2018 )
 Man kann also sagen, das die Möglichkeit des Selbst Publizierens nur für wenige Autoren große Chancen bietet, und selbst diese sind nicht garantiert. Beim Selbstverlegen fallen die Pflichten des Verlegers nicht weg, sondern werden nur auf den Autor übertragen. Wer sich keinen Grafiker, Marketingexperten oder Lektorat leisten möchte oder kann, publiziert seine Werke dennoch ohne Filter und Verstand. Das Ergebnis ist ein unkontrollierter, überfüllter Markt und überforderte Endverbraucher, die sich anderen Medienanbietern zuwenden und dem Buchhandel immer stärker den Rücken kehren.
 
-###Literaturverzeichnis 
+### Literaturverzeichnis 
 
 - Hviid, Morten & Izquierdo Sanchez, Sofia & Jacques, Sabine (2016), From Publishers to Self-Publishing: The Disruptive Effects of Digitalisation on the Book Industry, in: SSRN Electronic Journal. 10.2139/ssrn.2893237.
 - Dworkin, Craig & Gilbert, Anette & Morris, Simon & Soto, Carlos & Thurston, Nick. (2013) Do or DIY- Zur Geschichte und Praxis im Selbstverlag, Köln: Salon-Verlag.
