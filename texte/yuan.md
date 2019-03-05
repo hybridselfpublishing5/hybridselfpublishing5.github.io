@@ -44,7 +44,7 @@ Hybrid-Print allows for a myriad of possibilities for publishing content. It cou
 
 On the one hand, hybrid publishing provides great freedom, flexibility and diversity. On the other hand, the advantages of hybrid publishing also cause some problems, and these problems gradually attract social attention. 
 
-The disadvantages of hybrid publishing:
+<h3>The disadvantages of hybrid publishing:</h3>
 
 1.	Abuse 
 Traditional publishers act like gatekeepers. Publishing agents invest their time and money in a book when they publish it. To make sure that they recoup their investment, concentrating their efforts on a relatively small number of books with high quality. But hybrid publishing, theoretically allows everyone to have the freedom and opportunity to publish. Everyone can write their own opinions and feelings on a public platform, and actively or passively spread it to others, either people they know or strangers. This way, publishing loses quality control. We gradually lose the gatekeepers, in other words, the goalkeeper can't defend the huge information flow. Particularly, some individuals or businesses can spread fake news and confuse people to achieve their political or economic goals. This can lead to content run wild and the quality of publishings is out of control. People may not find valuable content in the flood of information or more seriously, be misleaded by fake news and gossip. 
