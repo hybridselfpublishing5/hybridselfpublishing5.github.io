@@ -1,9 +1,7 @@
 
-# Code macht kreativ
+# Kreativität durch Code
+# Sinnhaftigkeit und Möglichkeiten des Selbst-Programmierens beim Selbst-Publizieren
 *Annika Bertram*
-
-Kreativität durch Code
-Sinnhaftigkeit und Möglichkeiten des Selbst-Programmierens beim Selbst-Publizieren
 
 Programmieren ist heute nicht mehr nur das Werkzeug der Computernerds. Immer mehr Designer beherrschen Programmiersprachen um ihre eigenen Projekte selbst umsetzen zu können. Diese Projekte sind meistens Apps und Websites, doch was in den letzten Jahren ebenfalls immer wichtiger und beliebter wurde sind E-Books. (vgl. Koch et al. 2010) Die elektronischen Bücher machen nicht nur das Lesen einfacher indem sie günstiger als echte Bücher sowie leichter verstaubar und mitnehmbar sind, sie machen es auch Autoren einfacher. (vgl. Dworkins et al. 2013) Autoren sind nicht mehr gezwungen über einen Verleger zu veröffentlichen, sondern können ihre Publikation direkt selber im Internet veröffentlichen. Zwar ist der Autor so nicht mehr auf den Verlag und dessen Zustimmung angewiesen oder durch dessen Richtlinien eingeschränkt, jedoch steht er nun vor der Hürde nicht nur den Inhalt seines Buches zu verfassen, sondern auch die äußere Gestaltung zu übernehmen. Dabei geht es vor allem um zwei wesentliche Aspekte. Zum einen ist das Format, die Lesbarkeit und richtige Ausgabe auf verschieden Geräten wichtig, zum anderen spielt der Ästhetische Faktor eine mindestens ebenso große Rolle wie beim Print-Medium Buch, vor allem wenn es sich um bebilderte Bücher und solche aus dem künstlerischen Bereich handelt. Was die Ästhetik anbelangt, könnte man natürlich auf die Werkzeuge der Design-Branche wie Adobe InDesign zurückgreifen und daraus eine PDF-Datei erzeugen. Doch über diesen Weg wird das Dokument nicht an das jeweilige Gerät des Lesers angepasst. Ohne die Optimale Anpassung wird die Lesbarkeit erschwert, und wie soll ein Buch ein Erfolg werden, wenn niemand es durchliest. (vgl. Rediroma) Es ist also nützlich, ein E-Book mit einem Werkzeug zu erstellen das einem erlaubt, direkt alle wichtigen Faktoren in der Gestaltung zu beachten, sowohl die Ästhetischen als auch die Technischen. Die Lösung lautet Programmieren.
 Darüber hinaus dass Programmierung der Schlüssel zu jeglicher digitalen Umsetzung ist, ist es gleichzeitig ganz anders als andere Werkzeuge am Computer. Man verfügt nicht über ein Fenster mit Icons die einem sagen ob man grade Schrift oder Bilder zurechtrücken kann, es ist nicht in seinen Funktionen eingeschränkt. Beherrscht man die Programmiersprache, so ist alles möglich, von Textlayout über die Darstellung von Objekten bis hin zur Interaktion. Bei so vielen Möglichkeiten die sich ergeben stellt sich die Frage, inwieweit das Coden unsere Ideen anspornt, insbesondere im Bereich des Self-Publishings. Erweitert es die Ausdrucksweisen der Kreativität, oder schränkt es doch auf irgendwelche Art und Weise ein so viele Optionen zu haben?
@@ -21,12 +19,19 @@ An den aufgezeigten Beispielen wird sichtbar, dass Programmieren sowohl im exper
 
 LITERATURVERZEICHNIS
 Dworkin, Craig & Gilbert, Anette & Morris, Simon & Soto, Carlos & Thurston, Nick. (2013): Do or DIY- Zur Geschichte und Praxis im Selbstverlag, Köln: Salon-Verlag.
+
 Koch, Ute & Schomisch, Siegfried & Shen, Wie & Zens, Maria & Mayr, Philipp (2010): eBooks für Fachwissenschaftler. Ein Testbericht zu aktuellen E-Readern, in: Bernhard Mittermaier (Hrsg.), eLibrary – den Wandel gestalten. 5. Konferenz der Zentralbibliothek Forschungszentrum Jülich, Jülich: Zentralbibliothek Forschungszentrum Verlag, S. 67-80.
+
 Rediroma-Verlag: eBook veröffentlichen – die wichtigsten Kriterien [online] https://www.rediroma-verlag.de/ratgeber/ebook-veroeffentlichen-kriterien [04.03.2019]
+
 Romeike, Ralf (2008): Sichtweisen einer kreativen Informatik, Potsdam, Univ., Diss., S. 129-138.
+
 Horneber, Christian (2012): Der kreative Entrepreneur: Eine empirische Multimethoden-Studie, Oldenburg: Springer, Univ., Diss., S. 33-51.
+
 Bajohr, Hannes (2016): Infradünne Plattformen: Print-on-Demand als Strategie und Genre, Stuttgart: Klett-Cotta Verlag, S. 79-87.
 Simon, Thorsten (2016): Europäische Self-Publishing-Studie 2016 – Etablierung und Chancen. Self-Publisher im internationalen Vergleich, Norderstedt: BoD, S. 6-21
+
 Wikipedia (2019): LaTeX [online] https://de.wikipedia.org/wiki/LaTeX [04.03.2019]
+
 Bentley, Peter J.: Der Sinn des Code [online] http://90.146.8.18/de/archiv_files/20031/FE_2003_bentley_de.pdf [04.03.2019]
 
