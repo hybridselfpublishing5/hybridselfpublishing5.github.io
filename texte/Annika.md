@@ -26,20 +26,21 @@ An den aufgezeigten Beispielen wird sichtbar, dass Programmieren sowohl im exper
 
 
 LITERATURVERZEICHNIS
-Dworkin, Craig & Gilbert, Anette & Morris, Simon & Soto, Carlos & Thurston, Nick. (2013): Do or DIY- Zur Geschichte und Praxis im Selbstverlag, Köln: Salon-Verlag.
 
-Koch, Ute & Schomisch, Siegfried & Shen, Wie & Zens, Maria & Mayr, Philipp (2010): eBooks für Fachwissenschaftler. Ein Testbericht zu aktuellen E-Readern, in: Bernhard Mittermaier (Hrsg.), eLibrary – den Wandel gestalten. 5. Konferenz der Zentralbibliothek Forschungszentrum Jülich, Jülich: Zentralbibliothek Forschungszentrum Verlag, S. 67-80.
+- Dworkin, Craig & Gilbert, Anette & Morris, Simon & Soto, Carlos & Thurston, Nick. (2013): Do or DIY- Zur Geschichte und Praxis im Selbstverlag, Köln: Salon-Verlag.
 
-Rediroma-Verlag: eBook veröffentlichen – die wichtigsten Kriterien [online] https://www.rediroma-verlag.de/ratgeber/ebook-veroeffentlichen-kriterien [04.03.2019]
+- Koch, Ute & Schomisch, Siegfried & Shen, Wie & Zens, Maria & Mayr, Philipp (2010): eBooks für Fachwissenschaftler. Ein Testbericht zu aktuellen E-Readern, in: Bernhard Mittermaier (Hrsg.), eLibrary – den Wandel gestalten. 5. Konferenz der Zentralbibliothek Forschungszentrum Jülich, Jülich: Zentralbibliothek Forschungszentrum Verlag, S. 67-80.
 
-Romeike, Ralf (2008): Sichtweisen einer kreativen Informatik, Potsdam, Univ., Diss., S. 129-138.
+- Rediroma-Verlag: eBook veröffentlichen – die wichtigsten Kriterien [online] https://www.rediroma-verlag.de/ratgeber/ebook-veroeffentlichen-kriterien [04.03.2019]
 
-Horneber, Christian (2012): Der kreative Entrepreneur: Eine empirische Multimethoden-Studie, Oldenburg: Springer, Univ., Diss., S. 33-51.
+- Romeike, Ralf (2008): Sichtweisen einer kreativen Informatik, Potsdam, Univ., Diss., S. 129-138.
 
-Bajohr, Hannes (2016): Infradünne Plattformen: Print-on-Demand als Strategie und Genre, Stuttgart: Klett-Cotta Verlag, S. 79-87.
+- Horneber, Christian (2012): Der kreative Entrepreneur: Eine empirische Multimethoden-Studie, Oldenburg: Springer, Univ., Diss., S. 33-51.
+
+- Bajohr, Hannes (2016): Infradünne Plattformen: Print-on-Demand als Strategie und Genre, Stuttgart: Klett-Cotta Verlag, S. 79-87.
 Simon, Thorsten (2016): Europäische Self-Publishing-Studie 2016 – Etablierung und Chancen. Self-Publisher im internationalen Vergleich, Norderstedt: BoD, S. 6-21
 
-Wikipedia (2019): LaTeX [online] https://de.wikipedia.org/wiki/LaTeX [04.03.2019]
+- Wikipedia (2019): LaTeX [online] https://de.wikipedia.org/wiki/LaTeX [04.03.2019]
 
-Bentley, Peter J.: Der Sinn des Code [online] http://90.146.8.18/de/archiv_files/20031/FE_2003_bentley_de.pdf [04.03.2019]
+- Bentley, Peter J.: Der Sinn des Code [online] http://90.146.8.18/de/archiv_files/20031/FE_2003_bentley_de.pdf [04.03.2019]
 
