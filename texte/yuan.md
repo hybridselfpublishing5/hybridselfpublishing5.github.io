@@ -36,7 +36,7 @@ https://www.janefriedman.com/key-book-publishing-path/
 
 - Independent Book Publishers (2016), Association IBPA Hybrid Publisher Criteria [online] https://www.ibpa-online.org/page/hybridpublisher
 
--Austin Macauley Publishers, what is hybrid publishing, [online] https://www.austinmacauley.com/blog/what-hybrid-publishing
+- Austin Macauley Publishers, what is hybrid publishing, [online] https://www.austinmacauley.com/blog/what-hybrid-publishing
 
 - Brian A. Klems (2016), What is Hybrid Publishing? Here Are 4 Things All Writers Should Know [online] https://www.writersdigest.com/online-editor/what-is-hybrid-publishing-here-are-4-things-you-should-know
 
